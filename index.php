@@ -14,6 +14,7 @@
   <!--styles main and frameworks -->
        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
        <link rel="stylesheet" href="assets/css/bootstrap.css"  />
+       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/css/swiper.css">
 
        <link rel="stylesheet" href="assets/css/styles.css"  />
        <link rel="stylesheet" href="assets/css/responsive.css"  />
@@ -78,7 +79,7 @@
                   </div>
                 </div>
                 <!-- sponsorts -->
-                    <div class="content-lg container">
+                    <div class="swiper-container container">
                         <!-- Swiper Clients -->
                         <div class="swiper-slider swiper-clients">
                             <!-- Swiper Wrapper -->
@@ -93,15 +94,14 @@
                                     <img class="swiper-clients-img" src="assets/img/partenaires/4wings-logo.png" alt="4 wings Logo">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img class="swiper-clients-img" src="img/clients/04.png" alt="Clients Logo">
+                                    <img class="swiper-clients-img" src="assets/img/partenaires/telenet-logo.png" alt="Clients Logo">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img class="swiper-clients-img" src="img/clients/05.png" alt="Clients Logo">
+                                    <img class="swiper-clients-img" src="assets/img/partenaires/orange-logo.png" alt="Clients Logo">
                                 </div>
-                                <div class="swiper-slide">
-                                    <img class="swiper-clients-img" src="img/clients/06.png" alt="Clients Logo">
-                                </div>
+
                             </div>
+                            <div class="swiper-scrollbar"></div>
                             <!-- End Swiper Wrapper -->
                         </div>
                         <!-- End Swiper Clients -->
@@ -112,13 +112,14 @@
         </section>
 
 
-
+ddddddd
     </main>
   <!-- Javascript et ses modules -->
   <script src="assets/js/vendor/jquery-1.11.2.min.js" type="text/javascript"></script>
-
   <script src="assets/js/vendor/bootstrap.min.js" type="text/javascript"></script>
 
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/js/swiper.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/js/swiper.jquery.min.js"></script>
   <script src="assets/js/main.js" type="text/javascript"></script>
 
 </body>
