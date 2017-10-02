@@ -50,6 +50,7 @@
     position: absolute;
     top: 19px;
   }
+
 }
 
 /* Media Queries below 767px */
@@ -74,6 +75,7 @@
     margin-left: 0;
     margin-right: 0;
   }
+
 }
 
 /* Media Queries dessus 992px */
@@ -111,4 +113,5 @@
     transition-property: all;
     transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
   }
+  
 }

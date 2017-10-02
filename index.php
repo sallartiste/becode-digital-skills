@@ -85,7 +85,7 @@
                             <!-- Swiper Wrapper -->
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
-                                    <img width="70px;" class="swiper-clients-img" src="assets/img/partenaires/telenet-logo.png" alt="Telenet Logo">
+                                    <img class="swiper-clients-img" src="assets/img/partenaires/telenet-logo.png" alt="Telenet Logo">
                                 </div>
                                 <div class="swiper-slide">
                                     <img class="swiper-clients-img" src="assets/img/partenaires/orange-logo.png" alt="orange Logo">
@@ -94,10 +94,16 @@
                                     <img class="swiper-clients-img" src="assets/img/partenaires/4wings-logo.png" alt="4 wings Logo">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img class="swiper-clients-img" src="assets/img/partenaires/telenet-logo.png" alt="Clients Logo">
+                                    <img class="swiper-clients-img" src="assets/img/partenaires/degroof.png" alt="degroof petercam Logo">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img class="swiper-clients-img" src="assets/img/partenaires/orange-logo.png" alt="Clients Logo">
+                                    <img class="swiper-clients-img" src="assets/img/partenaires/digital.png" alt="digital bruxelles Logo">
+                                </div>
+                                <div class="swiper-slide">
+                                    <img class="swiper-clients-img" src="assets/img/partenaires/simplon.png" alt="simplon.co Logo">
+                                </div>
+                                <div class="swiper-slide">
+                                    <img class="swiper-clients-img" src="assets/img/partenaires/bxlformation.png" alt="Bruxelles Formation Logo">
                                 </div>
 
                             </div>
