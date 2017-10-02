@@ -70,8 +70,8 @@
                   <h1>Becode</h1>
                   <h3>Digital Skills</h3>
                   <p class="resume">
-                    Lorem ipsum dolor amet consectetur adipiscing dolore magna aliqua <br/>
-                    enim minim estudiat veniam siad venumus dolore
+                    Vous étes une entreprise et vous cherchez une journée de formation ITC<br />
+                    Vous étes au bon endroit.
                   </p>
                   <div class="bouton">
                     <a href="#" class="btn-theme btn-theme-sm btn-white-brd text-uppercase">
@@ -85,7 +85,7 @@
                             <!-- Swiper Wrapper -->
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
-                                    <img class="swiper-clients-img" src="assets/img/partenaires/telenet-logo.png" alt="Telenet Logo">
+                                    <img width="70px;" class="swiper-clients-img" src="assets/img/partenaires/telenet-logo.png" alt="Telenet Logo">
                                 </div>
                                 <div class="swiper-slide">
                                     <img class="swiper-clients-img" src="assets/img/partenaires/orange-logo.png" alt="orange Logo">
@@ -107,12 +107,31 @@
                         <!-- End Swiper Clients -->
                     </div>
                     <!-- fin sponsorts -->
+
               </div>
             </div>
         </section>
 
+        <!-- Rezo sociaux -->
+        <footer class="homeland">
+          <div class="container">
+             <div class="row">
+               <img class="img-responsive toto-image" src="assets/img/logo-header.png" />
+               <ul class="icons list-inline">
+                 <li><a href=""><i class="fa fa-facebook-f fa-lg"></i></a></li>
+                 <li><a href=""><i class="fa fa-instagram fa-lg"></i></a></li>
+                 <li><a href=""><i class="fa fa-youtube-play fa-lg"></i></a></li>
+                 <li><a href=""><i class="fa fa-medium fa-lg"></i></a></li>
+                 <li><a href=""><i class="fa fa-twitter fa-lg"></i></a></li>
+                 <li><a href=""><i class="fa fa-linkedin fa-lg"></i></a></li>
+                 <li><a href=""><i class="fa fa-comments-o fa-lg"></i></a></li>
+               </ul>
+             </div>
+          </div>
+        </footer>
 
-ddddddd
+
+
     </main>
   <!-- Javascript et ses modules -->
   <script src="assets/js/vendor/jquery-1.11.2.min.js" type="text/javascript"></script>

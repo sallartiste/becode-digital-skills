@@ -387,3 +387,19 @@ fieldset[disabled] .btn-theme {
   -webkit-align-items: center;
   align-items: center;
 }
+
+/* --------- Footer ---------*/
+footer{
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  z-index: 2;
+}
+
+.toto-image{
+  display: inline-block;
+}
+
+.fa{
+  color: #fff;
+}
