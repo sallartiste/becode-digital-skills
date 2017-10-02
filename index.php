@@ -118,13 +118,13 @@
              <div class="row">
                <img class="img-responsive toto-image" src="assets/img/logo-header.png" />
                <ul class="icons list-inline">
-                 <li><a href=""><i class="fa fa-facebook-f fa-lg"></i></a></li>
-                 <li><a href=""><i class="fa fa-instagram fa-lg"></i></a></li>
-                 <li><a href=""><i class="fa fa-youtube-play fa-lg"></i></a></li>
-                 <li><a href=""><i class="fa fa-medium fa-lg"></i></a></li>
-                 <li><a href=""><i class="fa fa-twitter fa-lg"></i></a></li>
-                 <li><a href=""><i class="fa fa-linkedin fa-lg"></i></a></li>
-                 <li><a href=""><i class="fa fa-comments-o fa-lg"></i></a></li>
+                 <li><a href="https://www.facebook.com/becode.org" target="_blank"><i class="fa fa-facebook-f fa-lg"></i></a></li>
+                 <li><a href="https://www.instagram.com/becodeorg" target="_blank"><i class="fa fa-instagram fa-lg"></i></a></li>
+                 <li><a href="https://www.youtube.com/channel/UCgE_Zvt-uWmsc0x6r82VAFQ" target="_blank"><i class="fa fa-youtube-play fa-lg"></i></a></li>
+                 <li><a href="http://blog.becode.org" target="_blank"><i class="fa fa-medium fa-lg"></i></a></li>
+                 <li><a href="https://twitter.com/becodeorg" target="_blank"><i class="fa fa-twitter fa-lg"></i></a></li>
+                 <li><a href="https://www.linkedin.com/company/becode.org" target="_blank"><i class="fa fa-linkedin fa-lg"></i></a></li>
+                 <!--<li><a href=""><i class="fa fa-comments-o fa-lg"></i></a></li>-->
                </ul>
              </div>
           </div>
