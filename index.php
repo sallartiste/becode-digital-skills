@@ -49,13 +49,29 @@
                        <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="#">Home</a></li>
                        <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="#">Qui sommes-nous</a></li>
                        <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="#">Contact</a></li>
-                       <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="#">Connexion</a></li>
+                       <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover connexion" href="#">Connexion</a></li>
                        <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="#">S'inscrire</a></li>
                    </ul>
                  </div>
                </div><!-- Fin collapse -->
            </div>
         </nav>
+        <!-- formulaire connexion -->
+        <div class="sub-main-login" style="display:none;">
+  				<form action="#" method="post">
+  					<input placeholder="Entrer votre E-mail" name="email" type="email" required="">
+  					<span class="icon1"><i class="fa fa-envelope" aria-hidden="true"></i></span>
+  					<input  placeholder="Entrer Password" name="Password" type="password" required="">
+  					<span class="icon2"><i class="fa fa-unlock-alt" aria-hidden="true"></i></span>
+  					<div class="checkbox-w3">
+  						<span class="check-w3"><input type="checkbox" />Remember Me</span>
+  						<a href="#">Forgot Password?</a>
+  						<div class="clear"></div>
+  					</div>
+  					<input type="submit" value="Login">
+  				</form>
+  			</div>
+
       </header>
       <!-- ====== Fin header ====== -->
 

@@ -2,7 +2,13 @@ html, html a, body{
   -webkit-font-smoothing: antialiased;
 }
 
-
+input[type="button"],input[type="submit"]{
+	transition:0.5s all;
+	-webkit-transition:0.5s all;
+	-moz-transition:0.5s all;
+	-o-transition:0.5s all;
+	-ms-transition:0.5s all
+}
 
 li, li a{
   color: #515769;
@@ -379,6 +385,74 @@ fieldset[disabled] .btn-theme {
   transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
 }
 
+/* -------------- Connexion ----------------*/
+.sub-main-login{
+  background: rgba(12, 12, 12, 0.85);
+  width: 34%;
+  margin: 0 auto;
+  position: relative;
+  padding: 2.5em;
+  left: 30%;
+}
+
+.sub-main-login input[type="email"], .sub-main-login input[type="password"] {
+	outline: none;
+    font-size: 1em;
+    border: none;
+    background: #eeeeee;
+    width: 82.5%;
+    color: #000;
+    padding: 1em 3em 1em 1em;
+    letter-spacing: 1px;
+    font-family: 'Snippet', sans-serif;
+}
+.sub-main-login input[type="password"]{
+	margin-top: 1.5em;
+}
+.sub-main-login input[type="submit"] {
+    border: 2px solid #fff;
+    outline: none;
+    border-radius: 3px
+    font-size: 1.5em;
+    cursor: pointer;
+    margin-top: 2.5em;
+}
+
+
+span.icon1, span.icon2 {
+    color: #f1a008;
+    font-size: 1em;
+    position: absolute;
+    display: block;
+    text-align: center;
+}
+span.icon1 {
+    top: 12%;
+}
+span.icon2 {
+    top: 28%;
+}
+span.icon1, span.icon2{
+	right: 4.2em;
+}
+
+.checkbox-w3 {
+    margin:2em 0 2.5em;
+}
+span.check-w3 {
+    float: left;
+    color: #fff;
+    font-size: 1em;
+    letter-spacing: 1px;
+}
+.checkbox-w3 a {
+    color: #fff;
+    float: right;
+    font-size: 1em;
+	text-decoration: none;
+}
+
+
 /* ----------- Swiper Slider --------------*/
 .swiper-container{
   width: 100%;
@@ -390,7 +464,7 @@ fieldset[disabled] .btn-theme {
 .swiper-slide{
   text-align: center;
   margin: 0 auto;
-  
+
 
 }
 
