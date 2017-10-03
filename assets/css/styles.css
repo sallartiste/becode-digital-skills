@@ -86,7 +86,7 @@ p{
 }
 
 .bouton{
-  margin-top: 10%;
+  margin-top: 5%;
 }
 
 
@@ -384,25 +384,14 @@ fieldset[disabled] .btn-theme {
   width: 100%;
   height: 100px;
   margin: 20px auto;
-  margin-top: 20%;
+  margin-top: 5%;
 }
 
 .swiper-slide{
   text-align: center;
   margin: 0 auto;
-  width: 100px;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: -webkit-flex;
-  display: flex;
-  -webkit-box-pack: center;
-  -ms-flex-pack: center;
-  -webkit-justify-content: center;
-  justify-content: center;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  -webkit-align-items: center;
-  align-items: center;
+  
+
 }
 
 /* --------- Footer ---------*/
@@ -419,4 +408,9 @@ footer{
 
 .fa{
   color: #fff;
+}
+
+.icons li{
+  margin-right: 10px;
+  margin-top: 5px;
 }

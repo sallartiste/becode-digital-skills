@@ -80,37 +80,33 @@
                 </div>
                 <!-- sponsorts -->
                     <div class="swiper-container container">
-                        <!-- Swiper Clients -->
-                        <div class="swiper-slider swiper-clients">
                             <!-- Swiper Wrapper -->
                             <div class="swiper-wrapper">
+                              <div class="swiper-slide">
+                                  <img src="assets/img/partenaires/bxlformation.png" alt="Bruxelles Formation Logo">
+                              </div>
                                 <div class="swiper-slide">
-                                    <img class="swiper-clients-img" src="assets/img/partenaires/telenet-logo.png" alt="Telenet Logo">
+                                    <img src="assets/img/partenaires/telenet-logo.png" alt="Telenet Logo">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img class="swiper-clients-img" src="assets/img/partenaires/orange-logo.png" alt="orange Logo">
+                                    <img src="assets/img/partenaires/orange-logo.png" alt="orange Logo">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img class="swiper-clients-img" src="assets/img/partenaires/4wings-logo.png" alt="4 wings Logo">
+                                    <img src="assets/img/partenaires/4wings-logo.png" alt="4 wings Logo">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img class="swiper-clients-img" src="assets/img/partenaires/degroof.png" alt="degroof petercam Logo">
+                                    <img src="assets/img/partenaires/degroof.png" alt="degroof petercam Logo">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img class="swiper-clients-img" src="assets/img/partenaires/digital.png" alt="digital bruxelles Logo">
+                                    <img src="assets/img/partenaires/digital.png" alt="digital bruxelles Logo">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img class="swiper-clients-img" src="assets/img/partenaires/simplon.png" alt="simplon.co Logo">
-                                </div>
-                                <div class="swiper-slide">
-                                    <img class="swiper-clients-img" src="assets/img/partenaires/bxlformation.png" alt="Bruxelles Formation Logo">
+                                    <img src="assets/img/partenaires/simplon.png" alt="simplon.co Logo">
                                 </div>
 
                             </div>
                             <div class="swiper-scrollbar"></div>
                             <!-- End Swiper Wrapper -->
-                        </div>
-                        <!-- End Swiper Clients -->
                     </div>
                     <!-- fin sponsorts -->
 
@@ -146,6 +142,7 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/js/swiper.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/js/swiper.jquery.min.js"></script>
   <script src="assets/js/main.js" type="text/javascript"></script>
+
 
 </body>
 </html>
