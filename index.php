@@ -57,20 +57,36 @@
            </div>
         </nav>
         <!-- formulaire connexion -->
-        <div class="sub-main-login" style="display:none;">
-  				<form action="#" method="post">
-  					<input placeholder="Entrer votre E-mail" name="email" type="email" required="">
-  					<span class="icon1"><i class="fa fa-envelope" aria-hidden="true"></i></span>
-  					<input  placeholder="Entrer Password" name="Password" type="password" required="">
-  					<span class="icon2"><i class="fa fa-unlock-alt" aria-hidden="true"></i></span>
-  					<div class="checkbox-w3">
-  						<span class="check-w3"><input type="checkbox" />Remember Me</span>
-  						<a href="#">Forgot Password?</a>
-  						<div class="clear"></div>
-  					</div>
-  					<input type="submit" value="Login">
-  				</form>
-  			</div>
+
+      	<div class="main-content-agile" style="display:none">
+      		<div class="sub-main-log">
+      			<h2>Connexion</h2>
+      			<form action="#" method="post">
+      				<h6>Se connecter avec</h6>
+      				<div class="navbar-rightt social-icons">
+      					<a href="#" class="one-log" ><i class="fa fa-facebook" aria-hidden="true"></i> Facebook</a>
+      					<a href="#" class="two-log" ><i class="fa fa-google-plus" aria-hidden="true"></i>Google+</a>
+      					<div class="clear"></div>
+      				</div>
+      				<h6>Ou avec votre email</h6>
+      				<div class="icon1">
+      					<input placeholder="Email" name="mail" type="email" required="">
+      				</div>
+
+      				<div class="icon2">
+      					<input  placeholder="Password" name="Password" type="password" required="">
+      				</div>
+      				<label class="anim">
+      				<input type="checkbox" class="checkbox">
+      					<span>Remember Me</span>
+      					<a href="#">Forgot Password</a>
+      				</label>
+      					<div class="clear"></div>
+      				<input type="submit" value="Sign in">
+      			</form>
+      		</div>
+      	</div>
+      	<!--//connexion-->
 
       </header>
       <!-- ====== Fin header ====== -->

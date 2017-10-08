@@ -26,6 +26,6 @@ var swiper = new Swiper('.swiper-container', {
 
     //aparition formulaire de connexion
 $('a.connexion').click(function(){
-    $('div.sub-main-login').toggle();
+    $('div.main-content-agile').toggle();
     return false;
 });
